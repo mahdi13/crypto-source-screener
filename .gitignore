@@ -1,0 +1,7 @@
+.idea
+venv
+*.log
+*.txt
+*.json
+*.csv
+!requirements.txt
